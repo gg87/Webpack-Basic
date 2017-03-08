@@ -1,4 +1,4 @@
-# Webpack-Basic
+# Webpack2-Basic
 Webpack 2 Basic - Start from scratch
 
 ## How To
